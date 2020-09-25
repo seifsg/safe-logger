@@ -1,0 +1,25 @@
+{
+  "name": "safe-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "pack": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "circular-dependency-plugin": "^5.2.0",
+    "jest": "^26.4.2",
+    "terser-webpack-plugin": "^4.2.2",
+    "ts-loader": "^8.0.4",
+    "typescript": "^4.0.3",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-node-externals": "^2.5.2"
+  }
+}

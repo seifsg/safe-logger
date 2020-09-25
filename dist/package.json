@@ -1,0 +1,22 @@
+{
+  "name": "safe-logger",
+  "version": "1.0.0",
+  "description": "Very simple and safe logger for your browser to make logs appear often and easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seifsg/safe-logger.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Seif Sgayer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seifsg/safe-logger/issues"
+  },
+  "homepage": "https://github.com/seifsg/safe-logger#readme"
+}
